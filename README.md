@@ -1,58 +1,47 @@
-```html
-```
-
-or any stray ``` anywhere above your content.
-
-To be safe, your **first line** should literally be:
-
-```html
 <div align="center">
-```
-
-No spaces before it.
-
----
-
-## ✅ Hard reset method (this always works)
-
-Do this **exactly**:
-
-1. Open repo:  
-   `https://github.com/dragan-milinkovic/dragan-milinkovic`
-
-2. Click **README.md → Edit**
-
-3. **Delete EVERYTHING**
-
-4. Paste ONLY this minimal test:
-
-```html
-<h1>Dragan Milinkovic</h1>
-<p>This is my profile README test.</p>
-```
-
-5. Commit to `main`
-
-6. Go to your profile page  
-   `https://github.com/dragan-milinkovic`
-
-If **this** does not show, then one of:
-- Repo name is wrong
-- Repo is private
-- You are not logged into the correct account
-
-There is no other possibility.
+  <h1>Dragan Milinkovic</h1>
+  <p><b>Full-Stack Engineer • Founder of Drangula Development FZE LLC</b></p>
+  <p>📍 Dubai, United Arab Emirates</p>
+</div>
 
 ---
 
-## 🧪 If it still doesn’t show, I need ONE thing
-Send **exactly this** (nothing else):
+## 🚀 About Me
 
-👉 **The URL of the repository** you believe is the profile repo
+Full-stack engineer with experience across **1500+ real-world projects**, building production-grade systems for clients worldwide.
 
-Example:
-```
-https://github.com/dragan-milinkovic/dragan-milinkovic
-```
+Founder of **Drangula Development FZE LLC**, a UAE-based software studio delivering high-end web platforms, mobile applications, bots, and AI-powered automations.
 
-Once I see the URL, I can tell you the issue in **one message**, guaranteed.
+I focus on **clean architecture, scalability, and long-term maintainability** — software that runs reliably in production, not demos.
+
+---
+
+## 🧠 Core Expertise
+
+- ⚙️ JavaScript / TypeScript  
+- 🚀 Node.js & backend systems  
+- 🌐 Full-stack web applications  
+- 🤖 Discord, Telegram & WhatsApp bots  
+- 🔁 Automation & integrations  
+- 🔐 Performance, security & scalability  
+
+---
+
+## 📌 Experience Highlights
+
+- 🏗️ Delivered systems used by thousands of users  
+- 🧩 Designed automation-heavy platforms reducing manual operations  
+- 🧠 Led projects end-to-end: architecture → deployment  
+- 📦 Built maintainable systems meant to scale  
+
+---
+
+## 📬 Contact
+
+- 🌐 https://www.drangula.net  
+- ✉️ hi@drangula.net  
+- 💬 https://t.me/drangula  
+
+<div align="center">
+  <sub>Building serious software. Shipping real systems.</sub>
+</div>
